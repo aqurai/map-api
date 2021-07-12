@@ -1,4 +1,4 @@
-# Map API Fork
+# Map API fork
 
 Forked from ETHZ-ASL's MAP API ([Link](https://github.com/ethz-asl/map_api)), a distributed multi-robot mapping system.
 
